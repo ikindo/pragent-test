@@ -1,2 +1,2 @@
-def save(order):
-    return order
+def save(order, tenant_id):
+    return order, tenant_id
